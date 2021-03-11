@@ -4,7 +4,7 @@
 ## Interest
 
 + Mobile App developer (Flutter & android)
-+ Web developer(just beginner...)
++ Web developer(Ruby on Rails)
 + machine learning (for use scikit-learn)
 + Algorithm
 
